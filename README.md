@@ -1,15 +1,13 @@
-.. -*- mode: rst -*-
-
 optimize_rosenbrock
 ============
 
 A simple python code for minimize the Rosenbrock function. 
 
 The Rosenbrock's function of N variables,
-	
-	$$f(x) =  \sum_{i=1}^{N-1}100*(x_i - x_{i-1}^2)^2 + (1- x_{i-1}^2)$$
 
-
+$$
+    	f(x) =  \sum_{i=1}^{N-1}100*(x_i - x_{i-1}^2)^2 + (1- x_{i-1}^2)
+$$
 Dependencies
 ============
 
