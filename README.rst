@@ -1,6 +1,6 @@
 .. -*- mode: rst -*-
 
-scikit-learn
+optimize_rosenbrock
 ============
 
 A simple python code for minimize the Rosenbrock functions. 
